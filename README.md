@@ -11,3 +11,5 @@ Additional utilities added:
 - `ps`
 
 Available at: `quay.io/fhcrc-microbiome/mmseqs2`
+
+[![Docker Repository on Quay](https://quay.io/repository/fhcrc-microbiome/mmseqs2/status "Docker Repository on Quay")](https://quay.io/repository/fhcrc-microbiome/mmseqs2)
